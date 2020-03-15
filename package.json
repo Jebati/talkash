@@ -1,0 +1,19 @@
+{
+  "name": "talker",
+  "version": "0.0.1",
+  "description": "Bot talker for VK",
+  "main": "i.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Jebati/talker.git"
+  },
+  "author": "jebati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jebati/talker/issues"
+  },
+  "homepage": "https://github.com/Jebati/talker#readme"
+}
